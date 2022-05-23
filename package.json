@@ -1,0 +1,16 @@
+{
+   "name": "electron-code",
+   "version": "1.0.0",
+   "description": "Simple text editor",
+   "main": "main.js",
+   "scripts": {
+      "start": "electron ."
+   },
+   "repository": "https://github.com/semiarthanoian/electron-code",
+   "keywords": [ "nodejs", "electronjs", "text editor", "tutorial", "beginner" ],
+   "author": "Semi Art",
+   "license": "CC0-1.0",
+   "devDependencies": {
+      "electron": "^18.2.3"
+   }
+}

@@ -1,1 +1,3 @@
-# electron-code
+# Electron Code
+
+A notepad-like code editor.

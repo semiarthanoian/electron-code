@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+/* * * * * * * * * * * * * * * * * *
+   font-family:
+      | "Red Hat Mono"
+   font-weight:
+      | normal
+      | bold
+   font-style:
+      | normal
+      | italic
+ * * * * * * * * * * * * * * * * * */
+
+@font-face
+   { font-family: "Red Hat Mono"
+   ; font-weight: normal
+   ; font-style: normal
+   ; src: url("./font/normal-normal.ttf")
+   }
+
+@font-face
+   { font-family: "Red Hat Mono"
+   ; font-weight: normal
+   ; font-style: italic
+   ; src: url("./font/normal-italic.ttf")
+   }
+
+@font-face
+   { font-family: "Red Hat Mono"
+   ; font-weight: bold
+   ; font-style: normal
+   ; src: url("./font/bold-normal.ttf")
+   }
+
+@font-face
+   { font-family: "Red Hat Mono"
+   ; font-weight: bold
+   ; font-style: italic
+   ; src: url("./font/bold-italic.ttf")
+   }

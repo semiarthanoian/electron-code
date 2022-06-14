@@ -1,8 +1,8 @@
 {
    "name": "electron-code",
    "version": "1.0.0",
-   "description": "Simple text editor",
-   "main": "main.js",
+   "description": "Simple code editor",
+   "main": "app.js",
    "scripts": {
       "start": "electron ."
    },
